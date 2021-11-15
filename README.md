@@ -1,6 +1,6 @@
 # BankAccountExercise
 
-This is the template for solve the first class Exercise.
+This is the template for solve the second class Exercise.
 
 -You can download the code or clone (do not forget to change the package) and work on it.
 
